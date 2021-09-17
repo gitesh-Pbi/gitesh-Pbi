@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics/ Data science
 - 🌱 I’m currently learning Python/ Data Visualization
 - 💞️ I’m looking to collaborate on Creating git hub profile
-- 📫 How to reach me 
+- 📫 How to reach me :LinkedIn
 
 <!---
 gitesh-Pbi/gitesh-Pbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
